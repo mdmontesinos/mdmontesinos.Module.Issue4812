@@ -35,4 +35,8 @@ function initializeMasonry() {
         console.log("Image loaded: ", image.img.src);
         msnry.layout();
     });
+
+    let status = document.getElementById('status');
+    status.innerHTML = 'Scripts loaded';
+    status.className = 'text-success';
 }
