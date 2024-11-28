@@ -17,8 +17,8 @@ Or this error related to the masonry grid not loading:
 
 To verify that it's working properly, the images grid should look like this:
 
-![{7D04D1F2-2B1A-49DC-84B6-4BA6BE58D002}](https://github.com/user-attachments/assets/82113644-8a60-4ac4-ba02-ba9c1ab8a4bb)
+![{C795F6C2-AF86-41E0-80DF-299A54ED5841}](https://github.com/user-attachments/assets/ae7958b4-ea12-4eb7-8d34-dd2f682e5957)
 
 If it looks like this, where there's vertical empty space between the news, it's not working as intended:
 
-![{C6BE81AC-E434-4B3D-9C65-495F064C3C69}](https://github.com/user-attachments/assets/9891f676-8e18-4056-a03b-46027899c042)
+![{584F4E86-494F-4412-B0D0-04127AD70A7B}](https://github.com/user-attachments/assets/dd465b27-b44d-462d-99d4-c6a35bbc7e15)
