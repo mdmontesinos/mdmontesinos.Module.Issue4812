@@ -16,16 +16,16 @@
     <releaseNotes></releaseNotes>
     <summary></summary>
     <dependencies>
-      <dependency id="Oqtane.Framework" version="5.2.4" />
+      <dependency id="Oqtane.Framework" version="6.0.0" />
     </dependencies>
   </metadata>
   <files>
-    <file src="..\Client\bin\Release\net8.0\mdmontesinos.Module.Issue4812.Client.Oqtane.dll" target="lib\net8.0" /> 
-    <file src="..\Client\bin\Release\net8.0\mdmontesinos.Module.Issue4812.Client.Oqtane.pdb" target="lib\net8.0" /> 
-    <file src="..\Server\bin\Release\net8.0\mdmontesinos.Module.Issue4812.Server.Oqtane.dll" target="lib\net8.0" /> 
-    <file src="..\Server\bin\Release\net8.0\mdmontesinos.Module.Issue4812.Server.Oqtane.pdb" target="lib\net8.0" /> 
-    <file src="..\Shared\bin\Release\net8.0\mdmontesinos.Module.Issue4812.Shared.Oqtane.dll" target="lib\net8.0" /> 
-    <file src="..\Shared\bin\Release\net8.0\mdmontesinos.Module.Issue4812.Shared.Oqtane.pdb" target="lib\net8.0" /> 
+    <file src="..\Client\bin\Release\net9.0\mdmontesinos.Module.Issue4812.Client.Oqtane.dll" target="lib\net9.0" /> 
+    <file src="..\Client\bin\Release\net9.0\mdmontesinos.Module.Issue4812.Client.Oqtane.pdb" target="lib\net9.0" /> 
+    <file src="..\Server\bin\Release\net9.0\mdmontesinos.Module.Issue4812.Server.Oqtane.dll" target="lib\net9.0" /> 
+    <file src="..\Server\bin\Release\net9.0\mdmontesinos.Module.Issue4812.Server.Oqtane.pdb" target="lib\net9.0" /> 
+    <file src="..\Shared\bin\Release\net9.0\mdmontesinos.Module.Issue4812.Shared.Oqtane.dll" target="lib\net9.0" /> 
+    <file src="..\Shared\bin\Release\net9.0\mdmontesinos.Module.Issue4812.Shared.Oqtane.pdb" target="lib\net9.0" /> 
     <file src="..\Server\wwwroot\**\*.*" target="wwwroot" /> 
     <file src="icon.png" target="" />
   </files>
