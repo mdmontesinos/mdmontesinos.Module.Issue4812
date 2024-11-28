@@ -22,7 +22,7 @@ namespace mdmontesinos.Module.Issue4812
                     CrossOrigin = "anonymous",
                     Integrity = "sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D",
                     Location = ResourceLocation.Body,
-                    Reload = true
+                    Reload = false
                 },
                 new Resource {
                     ResourceType = ResourceType.Script,
@@ -30,7 +30,7 @@ namespace mdmontesinos.Module.Issue4812
                     CrossOrigin = "anonymous",
                     Integrity = "sha384-e3sbGkYzJZpi7OdZc2eUoj7saI8K/Qbn+kPTdWyUQloiKIc9HRH4RUWFVxTonzTg",
                     Location = ResourceLocation.Body,
-                    Reload = true
+                    Reload = false
                 },
                 new Resource {
                     ES6Module = true,
